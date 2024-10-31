@@ -35,5 +35,5 @@ This project is a social networking application that enables users to connect, s
 
 - [**Priority Queue**](https://github.com/IRomanchuk06/priority_queue.git)
 - [**Multiset**](https://github.com/IRomanchuk06/multiset.git)
-- [**Social Network**](https://github.com/yourusername/social_network.git)
+- [**Social Network**](https://github.com/IRomanchuk06/social_network.git)
 
