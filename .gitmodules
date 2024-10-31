@@ -4,3 +4,6 @@
 [submodule "multiset"]
 	path = multiset
 	url = https://github.com/IRomanchuk06/multiset.git
+[submodule "social_network"]
+	path = social_network
+	url = https://github.com/IRomanchuk06/social_network.git
