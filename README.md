@@ -22,5 +22,5 @@ The multiset project implements a collection that allows for storing duplicate e
 
 ## Repository Structure
 
-- [**Priority Queue**](./priority_queue/)
-- [**Multiset**](./multiset/)
+- [**Priority Queue**](https://github.com/IRomanchuk06/priority_queue.git)
+- [**Multiset**](https://github.com/IRomanchuk06/multiset.git)
