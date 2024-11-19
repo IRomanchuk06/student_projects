@@ -10,3 +10,6 @@
 [submodule "process_synchronisation_algorithms"]
 	path = process_synchronisation_algorithms
 	url = https://github.com/IRomanchuk06/process_synchronisation_algorithms.git
+[submodule "graph_editor"]
+	path = graph_editor
+	url = https://github.com/IRomanchuk06/graph_editor.git
